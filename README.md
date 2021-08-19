@@ -11,9 +11,9 @@ Para más información al respecto, puede hacerlo en los comentarios de los vide
 
 ### Imágenes
 
-![alt inicio](https://raw.githubusercontent.com/andrengineer/CRUDNetBeans/main/java_r3KiTyR0MF.png, "Pantalla inicio de sesión")
+![alt inicio](https://raw.githubusercontent.com/andrengineer/CRUDNetBeans/main/java_r3KiTyR0MF.png "Pantalla inicio de sesión")
 
-![alt editar](https://raw.githubusercontent.com/andrengineer/CRUDNetBeans/main/java_KfHzGW5exI.png, "Editar productos")
+![alt editar](https://raw.githubusercontent.com/andrengineer/CRUDNetBeans/main/java_KfHzGW5exI.png "Editar productos")
 
-![alt crear](https://raw.githubusercontent.com/andrengineer/CRUDNetBeans/main/java_1G61c3qo66.png, "Crear productos")
+![alt crear](https://raw.githubusercontent.com/andrengineer/CRUDNetBeans/main/java_1G61c3qo66.png "Crear productos")
 
